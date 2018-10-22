@@ -1,0 +1,11 @@
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\bin\Debug\netcoreapp2.1\Treehouse-CSharp.deps.json
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\bin\Debug\netcoreapp2.1\Treehouse-CSharp.runtimeconfig.json
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\bin\Debug\netcoreapp2.1\Treehouse-CSharp.runtimeconfig.dev.json
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\bin\Debug\netcoreapp2.1\Treehouse-CSharp.dll
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\bin\Debug\netcoreapp2.1\Treehouse-CSharp.pdb
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\obj\Debug\netcoreapp2.1\Treehouse-CSharp.csprojAssemblyReference.cache
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\obj\Debug\netcoreapp2.1\Treehouse-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\obj\Debug\netcoreapp2.1\Treehouse-CSharp.AssemblyInfoInputs.cache
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\obj\Debug\netcoreapp2.1\Treehouse-CSharp.AssemblyInfo.cs
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\obj\Debug\netcoreapp2.1\Treehouse-CSharp.dll
+C:\Users\Joe\workspace\C#-Practice\CSharp-Intro\Treehouse-CSharp\obj\Debug\netcoreapp2.1\Treehouse-CSharp.pdb
