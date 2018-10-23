@@ -7,21 +7,34 @@ namespace Treehouse_CSharp
         static void Main()
         {
             int runningTotal = 0;
+            bool exercising = true;
+            while (exercising)
+            {
+                // Prompt user for minutes exercised
+                Console.Write("Enter how many minutes you exercised or type 'quit' to exit: ");
 
-            // Prompt user for minutes exercised
-            Console.Write("Enter how many minutes you exercised: ");
+                string minutesExercised = Console.ReadLine();
 
-            string minutesExercised = Console.ReadLine();
-            int minutes = int.Parse(minutesExercised);
-            runningTotal = runningTotal + minutes;
+                if(minutesExercised == "quit")
+                {
+                    exercising = false;
+                }
+                else
+                {
+                int minutes = int.Parse(minutesExercised);
+                runningTotal = runningTotal + minutes;
 
-            // Add minutes exercised to total
+                // Add minutes exercised to total
 
-            // Display total minutes exercised to the screen
-            Console.WriteLine("You've exercised " + runningTotal + " minutes! Great job!");
+                // Display total minutes exercised to the screen
+                Console.WriteLine("You've exercised " + runningTotal + " minutes! Great job!");
 
-            // Repeat until user quits
-            // Main();
+                // Repeat until user quits
+
+                }
+
+            }
+
         }
     }
 }
